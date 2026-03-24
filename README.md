@@ -46,14 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghosharghya247-cyber&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghosharghya247-cyber&theme=tokyonight" />
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 ### Core
@@ -96,17 +88,30 @@
 ---
 
 ## 🔥 Activity
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/_arghya_?ext=heatmap" />
-</p>
 
----
+<table>
+  <tr>
+    <!-- LEFT -->
+    <td>
+      <img src="https://leetcard.jacoblin.cool/_arghya_?ext=heatmap" />
+    </td>
 
+  <!-- RIGHT -->
+  <td>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=ghosharghya247-cyber&show_icons=true&theme=tokyonight" />
+      </div>
+      <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghosharghya247-cyber&theme=tokyonight" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+
 
 
