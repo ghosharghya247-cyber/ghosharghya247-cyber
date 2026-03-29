@@ -34,8 +34,8 @@
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/48ec149c-0fb4-472d-bc48-b6e1756b5f02" /> **Software Development Project**  
   → PERN stack + Vercel
   
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3af1f349-6162-491a-a485-84a09103208c" /> **OpenGL Interactive Simulation**  
-  → Real-time graphics + user interaction
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3af1f349-6162-491a-a485-84a09103208c" /> **Local Host project**  
+  → Buy + Sell + Build
 
 ---
 
